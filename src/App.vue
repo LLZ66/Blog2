@@ -10,7 +10,8 @@
   export default {
     data() {
       return {
-        A: 111
+        A: 111,
+        B: 222
       }
     },
     components: {
