@@ -10,7 +10,7 @@
   export default {
     data() {
       return {
-
+        A: 111
       }
     },
     components: {
